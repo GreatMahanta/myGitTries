@@ -1,0 +1,2 @@
+# myGitTries
+learn about git !!!
